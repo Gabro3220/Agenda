@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1718570770 source:c:\users\thiago\desktop\estrutura de dados 1\projeto avaliação\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1718571466 c:\users\thiago\desktop\estrutura de dados 1\projeto avaliação\lista.h
+
+1718570698 source:c:\users\thiago\desktop\estrutura de dados 1\projeto avaliação\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1718739436 source:c:\users\aluno\desktop\projeto avaliação\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1718571468 c:\users\aluno\desktop\projeto avaliação\lista.h
+
+1718739494 source:c:\users\aluno\desktop\projeto avaliação\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1718984658 source:c:\users\gabriel\desktop\projeto avaliação\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1718571468 c:\users\gabriel\desktop\projeto avaliação\lista.h
+
+1718985092 source:c:\users\gabriel\desktop\projeto avaliação\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1719004759 source:c:\users\win\desktop\facul\estrutura de dados 1\projeto avaliação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1719321693 c:\users\win\desktop\facul\estrutura de dados 1\projeto avaliação\lista.h
+
+1719323558 source:c:\users\win\desktop\facul\estrutura de dados 1\projeto avaliação\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1719334498 source:c:\users\gabriel\downloads\projetoatualizado\projeto avaliação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1719334498 c:\users\gabriel\downloads\projetoatualizado\projeto avaliação\lista.h
+
+1719334866 source:c:\users\gabriel\downloads\projetoatualizado\projeto avaliação\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1719334866 source:c:\users\gabriel\desktop\projetoavaliativo\projeto avaliação\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1719334498 c:\users\gabriel\desktop\projetoavaliativo\projeto avaliação\lista.h
+
+1719334498 source:c:\users\gabriel\desktop\projetoavaliativo\projeto avaliação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
